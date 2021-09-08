@@ -8,9 +8,15 @@ In order to prepare the data for the experiment, the data is cleaned to remove o
 
 Model Selection and Evaluation:
 Here we used linear regression, SVM, Decision Tree algorithm for this data set. Decision Tree   is very efficient compared to the other models  
+
 Conclusion:
+
 •	we see a high demand from April for bike
+
 •	summer is the season in which we have the more demand
+
 •	the number of rented bikes is huge, when there is solar radiation, the counter of rents is around 1000
+
 •	there are much more bike sharing during the day than the night
+
 •	Accuracy is good for Decision tree followed by the linear Regression and SVR
